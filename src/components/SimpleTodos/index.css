@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffc2a0;
+  min-height: 100vh;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-radius: 20px;
+  background-color: #ffffff;
+}
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+.todos-container {
+}

@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.todos-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.para {
+  color: #000000;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.button {
+  color: #ff0b37;
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 32px;
+  width: 120px;
+  border: solid 1px #ff0b37;
+  margin-left: 20px;
+}
